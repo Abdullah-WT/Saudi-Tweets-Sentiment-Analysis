@@ -35,3 +35,10 @@ Understanding public sentiment on social media is crucial for brands and governm
 1.  Clone the repo.
 2.  Install dependencies: `pip install pandas scikit-learn openpyxl`.
 3.  Run the notebook.
+
+## 📊 Dashboard Visualization
+Here is the Sentiment Analysis result visualized using Power BI:
+
+![Dashboard](dashboard.png)
+
+> **Note:** You can download the full Power BI file (`.pbix`) from the repository files above to explore the interactive dashboard.
