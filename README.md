@@ -39,5 +39,6 @@ Understanding public sentiment on social media is crucial for brands and governm
 ## 📊 Dashboard Visualization
 Here is the Sentiment Analysis result visualized using Power BI:
 
-! [image alt] (https://github.com/Abdullah-WT/Saudi-Tweets-Sentiment-Analysis/blob/d88b68222dedd41398dd689325af28f0051521bf/dashboard.png)
+![Dashboard](dashboard.png)
+
 > **Note:** You can download the full Power BI file (`.pbix`) from the repository files above to explore the interactive dashboard.
